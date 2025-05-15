@@ -1,0 +1,18 @@
+zig-cache/
+zig-out/
+release/
+debug/
+build/
+build-*/
+examples
+.zig-cache
+# Binary output
+*.exe
+*.pdb
+*.obj
+*.o
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
